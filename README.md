@@ -1,4 +1,5 @@
 # BotApp
+Kleine bot gecreeërd om huiswerk te maken.
 ## Windows
 Kijk of python is geinstalleerd door 'python' te typen in cmd (type dan 'quit()' om weer terug te gaan)
 Als dat niet zo is download dan python
