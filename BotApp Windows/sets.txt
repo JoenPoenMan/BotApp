@@ -1,0 +1,5 @@
+Settings (Hoofdlettergevoelig):
+
+Read Theory:
+Default Account: 0
+Default Grade: 8

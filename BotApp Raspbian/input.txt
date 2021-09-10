@@ -1,0 +1,14 @@
+Verander account credentials:
+
+Voorbeeld:
+Account 1: wachtwoord
+Account 2: wachtwoord2
+
+Read Theory:    (Voeg nieuwe regels toe om meerdere accounts toe te voegen)
+
+ItsLearning:    (Max. 1 account)
+
+Slimleren:      (Max. 1 account)
+
+
+Sluit en save dit bestand om op te slaan.
